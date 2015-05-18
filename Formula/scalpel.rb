@@ -18,3 +18,4 @@ class Scalpel < Formula
   end
 
 end
+
