@@ -1,8 +1,8 @@
 cask :v1 => 'hwsensors' do
-  version 'v6.14'
-  sha256 'dd0088eef634310af15df15d752a489b572949180acb70cdc41482895edee0c8'
+  version 'v6.16'
+  sha256 '3ce6b0aee14c7db2b179ecfe509bb56784db198ede78db32d1ba6373618b9ec9'
 
-  url "https://raw.githubusercontent.com/githubutilities/HWSensors-pkg/master/pkgs/HWSensors-#{version}.pkg.tar.gz"
+  url "https://raw.githubusercontent.com/githubutilities/HWSensors-pkg/#{version}/pkgs/HWSensors-#{version}.pkg.tar.gz"
   name 'hwsensors'
   homepage 'http://hwsensors.com/'
   license :gpl
