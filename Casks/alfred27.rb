@@ -1,6 +1,6 @@
 cask :v1 => 'alfred27' do
-  version '2.7.1_387'
-  sha256 'a3738d0513d736918a6d71535ef3d85dd184af267c05698e49ac4c6b48f38e17'
+  version '2.7.2_407'
+  sha256 '303f4a0f7965d20e8ca86408f120c3dc01fcd13f5379aab2f4d7ef4e3f8d07a9'
 
   url "https://raw.githubusercontent.com/githubutilities/macBinary/master/Binary/Alfred/Alfred_#{version}.zip"
   name 'Alfred'
