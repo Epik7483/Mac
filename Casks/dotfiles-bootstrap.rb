@@ -1,4 +1,4 @@
-cask :v1 => 'dotfiles-bootstrap' do
+cask 'dotfiles-bootstrap' do
   version :latest
   sha256 :no_check
 

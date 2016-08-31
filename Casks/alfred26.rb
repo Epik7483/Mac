@@ -1,4 +1,4 @@
-cask :v1 => 'alfred26' do
+cask 'alfred26' do
   version '2.6_374'
   sha256 'cc9f8791454056bcd0cd9ac94ae3604aa2bda4014a453c3e0cf5818a18a85eee'
 
