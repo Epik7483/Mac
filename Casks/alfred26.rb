@@ -5,7 +5,6 @@ cask 'alfred26' do
   url "https://raw.githubusercontent.com/githubutilities/macBinary/master/Binary/Alfred/Alfred_#{version}.zip"
   name 'Alfred'
   homepage 'http://www.alfredapp.com/'
-  license :commercial
 
   app 'Alfred 2.app'
   app 'Alfred 2.app/Contents/Preferences/Alfred Preferences.app'
